@@ -1,0 +1,18 @@
+# Hugo generated files
+/public/
+/resources/
+/themes/
+
+# Hugo configuration and lock files
+.hugo_build.lock
+hugo.log
+
+# Nohup output file
+nohup.out
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Thumbs.db files on Windows
+Thumbs.db
+
