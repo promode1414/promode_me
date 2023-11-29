@@ -1,4 +1,4 @@
-baseURL = 'https://promode.me/'
+baseURL = "https://promode.me/"
 languageCode = 'en-us'
 title = 'Pramod Choudhari'
 theme = "hugo-PaperMod"
