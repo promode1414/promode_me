@@ -6,7 +6,10 @@ theme: "hugo-PaperMod"
 params:
   homeInfoParams:
     Title: "Hi there 👋"
-    Content: "I'm passionate about learning database intricacies and optimizing backend systems 📊. Outside tech, I thrive on exploring new places, trekking, and maintaining a fit lifestyle 💪. Grateful for quality moments with friends and family 👨‍👩‍👧."
+    Content: >
+      I'm **Pramod**, 
+      I work at [**Level AI**](https://thelevel.ai/) as a Software Engineer.  
+      I like tinkering and reading about backend technologies, especially databases. [**Read More**](https://promode.me/about/)
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/pramod-choudhari-73bb36111/"
