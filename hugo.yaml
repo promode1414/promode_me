@@ -3,8 +3,6 @@ languageCode: "en-us"
 title: "Pramod Choudhari"
 theme: "hugo-PaperMod"
 
-# sectionPagesMenu: main
-
 params:
   homeInfoParams:
     Title: "Hi there 👋"
@@ -29,4 +27,13 @@ menu:
       weight: 20
     - name: About
       pageRef: /about
-      weight: 20
+      weight: 30
+    - name: Search
+      pageRef: /search
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

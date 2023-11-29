@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Generate the static site using Hugo
+hugo
+
 if [ "$1" == "prod" ]; then
     # Run Hugo server for production environment
     nohup hugo server -D --renderToDisk --baseURL=https://promode.me --appendPort=false &
