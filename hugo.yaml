@@ -1,4 +1,4 @@
-baseURL: "https://promode.me/"
+baseURL: "localhost:1313"
 languageCode: "en-us"
 title: "Pramod Choudhari"
 theme: "hugo-PaperMod"
@@ -19,6 +19,8 @@ params:
       url: "https://www.instagram.com/pro_mode14/"
     - name: "Github"
       url: "https://github.com/promode1414"
+    - name: "Stackoverflow"
+      url: "https://stackoverflow.com/users/6180721/pramod"
 
 menu:
   main:
