@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pramod Choudhari</title>
+    <link>https://promode.me/</link>
+    <description>Recent content on Pramod Choudhari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://promode.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://promode.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://promode.me/about/</guid>
+      <description>Hey there! I&amp;rsquo;m Pramod Choudhari from Kolhapur, India 🇮🇳.
+🚀 Software Engineer I love backend technologies, especially databases. Witnessing the evolution of smart solutions over the years is truly fascinating.
+👣 Beyond Tech When I&amp;rsquo;m not immersed in code, you&amp;rsquo;ll find me exploring new places, going on treks, and maintaining a fit lifestyle 💪. But the best moments? That&amp;rsquo;s quality time with friends and family 👨‍👩‍👧.
+🌟 Learning Journey As the saying goes, &amp;ldquo;Bunny, tum kitna bhi try karo, kuch na kuch toh choot jata hai.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
