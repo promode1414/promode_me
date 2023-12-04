@@ -1,7 +1,6 @@
 # Hugo generated files
 /public/
 /resources/
-/themes/
 
 # Hugo configuration and lock files
 .hugo_build.lock
