@@ -27,8 +27,9 @@ menu:
     - name: Home
       pageRef: /
       weight: 10
-    - name: Blogs
-      pageRef: /blogs
+    - identifier: Archives
+      name: Blogs
+      url: /archives/
       weight: 20
     - name: About
       pageRef: /about
