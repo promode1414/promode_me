@@ -32,16 +32,17 @@ menu:
       name: Blogs
       url: /archives/
       weight: 10
-    - identified: About
+    - identifier: About
       name: About
-      pageRef: /about
+      pageRef: /about/
       weight: 20
-    - identified: Tags
+    - identifier: Tags
       name: Tags
-      pageRef: /tags
+      pageRef: /tags/
       weight: 30
-    - name: Search
-      pageRef: /search
+    - identifier: Search
+      name: Search
+      pageRef: /search/
       weight: 40
 
 outputs:
