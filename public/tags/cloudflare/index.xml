@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Pramod Choudhari</title>
-    <link>https://promode.me/blogs/</link>
-    <description>Recent content in Blogs on Pramod Choudhari</description>
+    <title>cloudflare on Pramod Choudhari</title>
+    <link>https://promode.me/tags/cloudflare/</link>
+    <description>Recent content in cloudflare on Pramod Choudhari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2023 11:42:34 +0530</lastBuildDate><atom:link href="https://promode.me/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 11:42:34 +0530</lastBuildDate><atom:link href="https://promode.me/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How does Cloudflare handle rate-limiting at scale</title>
       <link>https://promode.me/blogs/rate-limiting-at-scale/</link>

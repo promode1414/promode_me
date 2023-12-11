@@ -5,10 +5,16 @@
     <loc>https://promode.me/blogs/</loc>
     <lastmod>2023-11-29T11:42:34+05:30</lastmod>
   </url><url>
-    <loc>https://promode.me/blogs/my-first-blog/</loc>
+    <loc>https://promode.me/tags/cloudflare/</loc>
+    <lastmod>2023-11-29T11:42:34+05:30</lastmod>
+  </url><url>
+    <loc>https://promode.me/blogs/rate-limiting-at-scale/</loc>
     <lastmod>2023-11-29T11:42:34+05:30</lastmod>
   </url><url>
     <loc>https://promode.me/</loc>
+    <lastmod>2023-11-29T11:42:34+05:30</lastmod>
+  </url><url>
+    <loc>https://promode.me/tags/</loc>
     <lastmod>2023-11-29T11:42:34+05:30</lastmod>
   </url><url>
     <loc>https://promode.me/about/</loc>
@@ -18,7 +24,5 @@
     <loc>https://promode.me/categories/</loc>
   </url><url>
     <loc>https://promode.me/search/</loc>
-  </url><url>
-    <loc>https://promode.me/tags/</loc>
   </url>
 </urlset>

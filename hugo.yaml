@@ -2,8 +2,12 @@ baseURL: "https://promode.me"
 languageCode: "en-us"
 title: "Pramod Choudhari"
 theme: "hugo-PaperMod"
+paginate: 5
 
 params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
   homeInfoParams:
     Title: "Hi there 👋"
     Content: >
@@ -24,15 +28,17 @@ params:
 
 menu:
   main:
-    - name: Home
-      pageRef: /
-      weight: 10
     - identifier: Archives
       name: Blogs
       url: /archives/
-      weight: 20
-    - name: About
+      weight: 10
+    - identified: About
+      name: About
       pageRef: /about
+      weight: 20
+    - identified: Tags
+      name: Tags
+      pageRef: /tags
       weight: 30
     - name: Search
       pageRef: /search
