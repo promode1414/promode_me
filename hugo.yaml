@@ -30,19 +30,19 @@ menu:
   main:
     - identifier: Archives
       name: Blogs
-      url: /archives/
+      url: /archives
       weight: 10
     - identifier: About
       name: About
-      pageRef: /about/
+      pageRef: /about
       weight: 20
     - identifier: Tags
       name: Tags
-      pageRef: /tags/
+      pageRef: /tags
       weight: 30
     - identifier: Search
       name: Search
-      pageRef: /search/
+      pageRef: /search
       weight: 40
 
 outputs:
